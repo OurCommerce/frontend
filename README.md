@@ -1,0 +1,2 @@
+# frontend
+OurCommerce frontend submodule
